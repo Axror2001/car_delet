@@ -1,2 +1,2 @@
 print("Versiya1")
-print("Versiy2")
+print("Versiya2")
